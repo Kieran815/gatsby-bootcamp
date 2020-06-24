@@ -6,6 +6,8 @@ author: "Kieran Milligan"
 
 Tutorial post for learning markdown again
 
+![Green Lantern Logo](./glLogo.jpg)
+
 ## Table of Contents
 
 1. Gatsby
